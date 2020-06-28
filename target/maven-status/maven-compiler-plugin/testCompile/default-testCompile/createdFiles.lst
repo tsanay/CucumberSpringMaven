@@ -1,0 +1,4 @@
+skynet\stepsDef\CucumberRunner.class
+skynet\bagCommons\BagHttpClient.class
+skynet\stepsDef\bagSteps.class
+skynet\bagCommons\BagCommonsSteps.class
